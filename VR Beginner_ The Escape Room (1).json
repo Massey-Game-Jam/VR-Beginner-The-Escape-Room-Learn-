@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "VR Beginner: The Escape Room",
+      "message": {
+        "embeds": [
+          {
+            "title": "VR Beginner: The Escape Room - Unity Learn",
+            "description": "In this project, you will: Review basic navigation with your VR controller Explore a basic VR prototyping environment Add teleporters, interactable objects and sound effects to the prototyping environment using the XR Interaction Toolkit Review how to set up Unity to add UI el...",
+            "color": 16776960,
+            "fields": [
+              {
+                "name": "Check out the link below to watch the video:",
+                "value": "https://learn.unity.com/project/vr-beginner-the-escape-room"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Tutorials",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "MasseyGameJam.Com",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "timestamp": "2020-10-23T01:55:00.000Z",
+            "image": {
+              "url": "https://connect-prd-cdn.unity.com/20200228/learn/images/19ca9ef3-a7df-40ef-8445-cd9501847a73_Untitled_1.png"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
